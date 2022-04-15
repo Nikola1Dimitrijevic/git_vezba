@@ -1,0 +1,1 @@
+console.log('ispis iz nove funkcije');
